@@ -21,14 +21,18 @@
 ---
 
 ## 🚀 Core Features
-
-- ✅ Mass Channel / Role Deletion  
-- ✅ Spam Channel Creation  
-- ✅ Proxy Rotation  
-- ✅ Webhook Spammer  
+- nuking with bot token
+- nuking with self token
+- dogshit proxy scraping
+- mid proxy checking ig
+- webhook nuking
 
 ---
 
 ## 📝 Credits
 - @LiterallySnowy 
 - scriptkid1 (no github)
+
+---
+## 🆘 Contributing
+pls dm me on discord if u wanna help with this ass code the user is crt149 ty
