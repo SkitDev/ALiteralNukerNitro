@@ -1,8 +1,8 @@
-#----------------------------------------------------#
+#------------------------------------------------------------------------------------------------------------#
 # ALiteralNuker Nitro
 # this shit is ass rn so jus wait till updates
 # might've been helped by AI cuz i didn't know how to make a proper proxy checking system (im retarded sorry)
-#----------------------------------------------------#
+#------------------------------------------------------------------------------------------------------------#
 
 import discord
 import asyncio
