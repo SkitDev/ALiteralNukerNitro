@@ -28,3 +28,7 @@
 - ✅ Webhook Spammer  
 
 ---
+
+## 📝 Credits
+- @LiterallySnowy 
+- scriptkid1 (no github)
