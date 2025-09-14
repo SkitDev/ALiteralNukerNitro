@@ -1,8 +1,4 @@
 <p align="center">
-  <img width="360" height="368" alt="image" src="https://github.com/user-attachments/assets/bb60947b-7258-48e7-a879-f14335dcb530" />
-</p>
-
-<p align="center">
   <img src="https://i.ibb.co/W4xJsg2t/alnnitro.png" width="200" alt="ALiteralNuker Logo" />
 </p>
 
