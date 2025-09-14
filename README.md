@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/W4xJsg2t/alnnitro.png" width="200" alt="ALiteralNuker Logo" />
+  <img width="1024" height="1024" alt="aln no bg" src="https://github.com/user-attachments/assets/03511ae4-612c-4a9b-b09e-37885caa71a5" />
 </p>
 
 <h1 align="center">🔥 ALiteralNuker: NITRO 🔥</h1>
