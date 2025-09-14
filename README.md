@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1024" height="1024" alt="aln no bg" src="https://github.com/user-attachments/assets/03511ae4-612c-4a9b-b09e-37885caa71a5" />
+  <img width="800" height="800" alt="ALN Logo" src="https://github.com/user-attachments/assets/03511ae4-612c-4a9b-b09e-37885caa71a5" />
 </p>
 
 <h1 align="center">🔥 ALiteralNuker: NITRO 🔥</h1>
@@ -21,18 +21,19 @@
 ---
 
 ## 🚀 Core Features
-- nuking with bot token
-- nuking with self token
-- dogshit proxy scraping
-- mid proxy checking ig
-- webhook nuking
+- Nuking with bot token  
+- Nuking with self token  
+- Dogshit proxy scraping  
+- Mid proxy checking (ig)  
+- Webhook nuking  
 
 ---
 
 ## 📝 Credits
-- @LiterallySnowy 
-- scriptkid1 (no github)
+- @LiterallySnowy  
+- scriptkid1 (no github)  
 
 ---
+
 ## 🆘 Contributing
-pls dm me on discord if u wanna help with this ass code the user is crt149 ty
+pls dm me on discord if u wanna help with this ass code, user is `crt149` ty  
